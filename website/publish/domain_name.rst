@@ -27,12 +27,15 @@ Buy your domain name at a popular registrar:
 - `GoDaddy <https://www.godaddy.com>`__  
 - `Namecheap <https://www.namecheap.com>`__  
 - `OVH <https://www.ovh.com>`__ 
+- `Register.com <https://www.register.com>`__ 
+- `World'd Top Registrars list <https://www.bloggingbook.net/top-10-domain-registrars-in-world/>`__ 
 
 .. note:: Steps to buy a domain name are pretty much straight forward. 
    In case of issue, check out those easy tutorials:
 
    - `GoDaddy <https://roadtoblogging.com/buy-domain-name-from-godaddy>`__
    - `Namecheap <https://www.loudtips.com/buy-domain-name-hosting-namecheap//>`__
+ 
 
    Feel free to buy an email server to have email addresses using your domain name.
    However don't buy any extra service to create or host your website. 
